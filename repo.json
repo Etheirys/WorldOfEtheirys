@@ -5,7 +5,7 @@
         "Punchline": "Enhanced GPosing.",
         "Description": "Brio is suite of tools that gives you advanced control to edit and pose actors during GPose.",
         "InternalName": "Brio",
-        "AssemblyVersion": "v0.5.6",
+        "AssemblyVersion": "0.5.6",
         "TestingAssemblyVersion": "0.5.6",
         "RepoUrl": "https://github.com/Etheirys/Brio",
         "ApplicableVersion": "any",
@@ -29,3 +29,7 @@
         ]
     }
 ]
+
+
+
+
