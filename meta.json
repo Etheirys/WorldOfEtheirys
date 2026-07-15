@@ -1,0 +1,6 @@
+[
+  {
+    "repo": "https://raw.githubusercontent.com/Etheirys/Brio/main/repo.json",
+    "plugins": ["Brio"]
+  }
+]
